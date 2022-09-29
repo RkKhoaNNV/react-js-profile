@@ -1,14 +1,3 @@
-<h2 align="center">
-  Portfolio Website<br/>
-  <a href="https://abhirajmaid.ml" target="_blank">khoannv.ml</a>
-</h2>
-
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-
-</center>
 
 <h3 align="center">
     🔹
