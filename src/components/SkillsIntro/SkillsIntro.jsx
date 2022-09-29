@@ -8,7 +8,7 @@ import "./style.css";
 const SkillsIntro = () => {
   return (
     <>
-      <div className="skill-intro" style={{ marginLeft: "250px" }}>
+      <div className="skill-intro">
         <motion.div
           initial={{ y: -100, x: -100 }}
           animate={{ x: 0, y: 0 }}

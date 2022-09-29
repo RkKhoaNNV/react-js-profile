@@ -37,6 +37,7 @@ const PageHeader = () => {
         variants={ParentVariant}
         initial="initial"
         animate="animate"
+        style={{ marginTop: "20px" }}
       >
         <span>
           <motion.h1 variants={TextVariant}>
