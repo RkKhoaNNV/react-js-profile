@@ -28,7 +28,7 @@ const Loader = () => {
     <>
       <div className="loader-container">
         <div className="loader-wrap">
-          <p>Hết sức bình tĩnh</p>
+          <p>Let's Get Ready!</p>
           <motion.div
             className="loader-bar"
             variants={LoaderVariant}
