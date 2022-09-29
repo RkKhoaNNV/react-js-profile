@@ -15,8 +15,8 @@ const FooterNav = () => {
             </a>
           </li>
           <li>
-            <a href="https://eternalmac.com" target="_blank" rel="noreferrer">
-              Eternalmac
+            <a href="https://fb.com/khoannv1.com" target="_blank" rel="noreferrer">
+              FB: KhoaNNV
             </a>
           </li>
           <li>
