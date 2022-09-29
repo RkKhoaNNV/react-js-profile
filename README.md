@@ -2,11 +2,6 @@
   Portfolio Website<br/>
   <a href="https://abhirajmaid.ml" target="_blank">abhirajmaid.ml</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="https://github.com/Abhirajmaid/Media-Storage/blob/master/Portfolio.png?raw=true" />
-</div>
-
-<br/>
 
 <center>
 
