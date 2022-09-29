@@ -45,7 +45,7 @@ const PageHeader = () => {
           </motion.h1>
         </span>
         <span>
-          <motion.h1 variants={TextVariant}>I am KhoaNNV</motion.h1>
+          <motion.h1 variants={TextVariant}>I am Khoa</motion.h1>
         </span>
       </motion.div>
     </>
