@@ -11,16 +11,20 @@ const FooterNav = () => {
               target="_blank"
               rel="noreferrer"
             >
-              v1
+              Phone: 0901908062
             </a>
           </li>
           <li>
-            <a href="https://fb.com/khoannv1.com" target="_blank" rel="noreferrer">
-              FB: KhoaNNV
+            <a
+              href="https://fb.com/khoannv1.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Facebook
             </a>
           </li>
           <li>
-            <a href="#home">Back to Top</a>
+            <a href="#home">↟</a>
           </li>
         </ul>
       </div>
